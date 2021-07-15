@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/www.google.com\/search?rlz=1C1GCEB_enDE891DE891&sxsrf=ALeKk02vHU9dQGtB8i1IrmbNHQLZE8M2_w:1626351164988&q=workadventure+second+map&spell=1&sa=X&ved=2ahUKEwisiOCbhuXxAhVc_7sIHfFeA2oQBSgAegQIARA1&biw=2133&bih=1174"
+                 "value":"..\/Floor1\/floor1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
