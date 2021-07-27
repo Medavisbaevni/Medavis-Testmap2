@@ -44,6 +44,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":""
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
